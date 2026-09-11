@@ -1,6 +1,6 @@
 import { cyclones, satelliteSources, alerts, analyticsSummary } from '../data/mockData';
 
-const API_BASE_URL = 'http://10.0.2.2:5000/api';;
+const API_BASE_URL = 'https://cyclone-intelligence-backend.onrender.com/api';
 
 /**
  * Robust API Client with Automated Demo Fallback
